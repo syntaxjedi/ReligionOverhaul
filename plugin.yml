@@ -1,0 +1,12 @@
+main: net.syntaxjedi.religionoverhaul.ReligionOverhaul
+name: ReligionOverhaul
+version: 1.0
+author: SyntaxJedi
+description: Create and manage religions, plus some other fun stuff.
+database: true
+commands:
+  religion:
+    description: Access religion commands.
+    usage: /religion help
+    permission: religion.create
+    permission-message: You don't have permission to run this command.

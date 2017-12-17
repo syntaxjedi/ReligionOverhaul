@@ -1,0 +1,14 @@
+####################################################
+# Do not leave this section blank!                 #
+# Database is needed to hold players/religion info #
+####################################################
+database:
+  host:
+  port:
+  databaseName:
+  username:
+  password:
+religions:
+  test1:
+    deity: Test Deity
+    desc: Test Description
